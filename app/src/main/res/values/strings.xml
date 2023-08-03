@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logo Trivia</string>
+    <string name="name_input_hint">Escribe tu nombre…</string>
+    <string name="welcome_text">Bienvenido a Logo Trivia, Ingresa tu nombre para comenzar…</string>
+    <string name="start_button_text">Comenzar</string>
+
+    <string name="greeting_text">Hola, %1$s</string>
+    <string name="win_text">¡Genial %1$s! \n ¡Ganaste!</string>
+    <string name="retry_button_text">Intentalo otra vez</string>
+    <string name="fail_text">Bueno, te equivocaste %1$s,\n ¡intentalo otra vez!</string>
+    <string name="start_again_button_text">Volver a empezar</string>
+</resources>
